@@ -2,7 +2,7 @@
   "type": "module",
   "devDependencies": {
     "npm-run-all2": "^6.1.1",
-    "vite": "^4.4.11",
+    "vite": "^4.4.12",
     "vite-plugin-directory-index": "^2.1.2"
   },
   "dependencies": {
